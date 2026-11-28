@@ -1,0 +1,28 @@
+{
+ "name": "Casey Centres Atlas",
+ "short_name": "Atlas",
+ "description": "Casey's activity centres: the findings, walk access, a map of centres and suburbs, what the community has said, and every public source behind them. AI-assisted working analysis.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f6f3ee",
+ "theme_color": "#1a1714",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
